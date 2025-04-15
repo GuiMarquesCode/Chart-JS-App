@@ -1,1 +1,1 @@
-# Chart-JS-App
+Este projeto tem como objetivo aprender e testar as primeiras utilizações do Chart.js, entendendo como criar e personalizar gráficos para diferentes tipos de dados.
